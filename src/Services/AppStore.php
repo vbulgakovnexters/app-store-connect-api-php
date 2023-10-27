@@ -2425,7 +2425,7 @@ class AppStore extends \Cantie\AppStoreConnect\Service
                         ]
                     ],
                     'listAppPricePointsEqualizations' => [
-                        'path' => '/v3/appPricePoints/{id}/equalizations',
+                        'path' => '/v1/inAppPurchasePricePoints/{id}/equalizations',
                         'httpMethod' => 'GET',
                         'parameters' => [
                             'id' => [
