@@ -1,5 +1,5 @@
 {
-    "name": "vbulgakovnexters/app-store-connect-api",
+    "name": "cantie/app-store-connect-api",
     "description": "A PHP client library for accessing App Store Connect APIs",
     "keywords": ["apple", "appstore", "appstore-api", "php"],
     "license": "MIT",
